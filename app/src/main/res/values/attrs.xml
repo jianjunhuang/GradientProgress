@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GradientProgress">
+        <attr name="textArray" format="reference" />
+        <attr name="colorArray" format="reference" />
+    </declare-styleable>
+</resources>
